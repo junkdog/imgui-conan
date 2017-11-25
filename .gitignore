@@ -1,0 +1,12 @@
+.idea
+Testing
+test_package/build
+_build
+_builds
+_install
+cmake-build-debug
+cmake-build-release
+CMakeFiles
+CMakeLists.txt.user
+README.docs.md
+
